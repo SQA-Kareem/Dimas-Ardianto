@@ -1,8 +1,8 @@
 # Daftar Pengujian
 
-| No  | Judul Projek                                      | Introduction                                                                                                       | Audience | Nama Pengujian              | Link SQA                                                                                                                    |
-| --- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [Internship Monitoring](https://intermoni.my.id/) | Ini adalah aplikasi monitoring internship(magang) yang bisa memonitoring kegiatan internship mahasiswa saat magang | User     | Pengujian1-searchIntenrship | [pengujian1](https://github.com/dimasardnt6/Software-Quality/blob/main/InternMonitoringApp/Test-SearchInternship/README.md) |
+| No  | Judul Projek                                      | Introduction                                                                                                                                                                                   | Audience | Nama Pengujian              | Link SQA                                                                                                                    |
+| --- | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Internship Monitoring](https://intermoni.my.id/) | Ini adalah aplikasi monitoring internship(magang) yang bisa memonitoring kegiatan internship mahasiswa saat magang, dan juga mmbantu perusahaan mengiklankan lowongan Internship yang dimiliki | User     | Pengujian1-searchIntenrship | [pengujian1](https://github.com/dimasardnt6/Software-Quality/blob/main/InternMonitoringApp/Test-SearchInternship/README.md) |
 
 # Panduan Penggunaan
 
